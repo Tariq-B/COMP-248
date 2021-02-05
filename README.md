@@ -1,2 +1,2 @@
 # COMP-248
-Tutorials and Labs for course COMP-248 of Concordia University
+Tutorials and Labs for COMP-248 : Intro to Java (OOP I) at Concordia University
